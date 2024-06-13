@@ -1,0 +1,821 @@
+{
+  "dryad": {
+    "1": [
+      [
+        "ชารูอา",
+        "ชารูอาจะช่วยเอง!",
+        "character/dryad/voice/words/charua_tetsudau"
+      ]
+    ]
+  },
+  "white_tiger": {
+    "1": [
+      [
+        "สัตว์อสูรทะเลทราย",
+        "ตามข้ามา！",
+        "character/white_tiger/voice/words/tsuitekoi"
+      ]
+    ],
+    "2": [
+      [
+        "สัตว์อสูรทะเลทราย",
+        "เกะกะน่า!",
+        "character/white_tiger/voice/words/jamanandayo"
+      ]
+    ],
+    "3": [
+      [
+        "สัตว์อสูรทะเลทราย",
+        "ฉันจะขยี้แก！",
+        "character/white_tiger/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "pirates_girl": {
+    "1": [
+      [
+        "มารีน่า",
+        "ฉันโกรธแล้วนะ!!",
+        "character/pirates_girl/voice/words/mookotta"
+      ]
+    ],
+    "2": [
+      [
+        "มารีน่า",
+        "โชว์ของดีให้ดูหน่อยสิ!",
+        "character/pirates_girl/voice/words/iitokomiseteyone"
+      ]
+    ],
+    "3": [
+      [
+        "มารีน่า",
+        "ไปเลยยย!",
+        "character/pirates_girl/voice/battle/power_flip_1"
+      ]
+    ],
+    "4": [
+      [
+        "มารีน่า",
+        "เต็มที่หน่อยสิ！",
+        "character/pirates_girl/voice/words/kiaiirena"
+      ]
+    ]
+  },
+  "mermaid": {
+    "1": [
+      [
+        "อะเมเลีย",
+        "ลุย!",
+        "character/mermaid/voice/words/ikkuyo"
+      ]
+    ]
+  },
+  "wolf_swordsman": {
+    "1": [
+      [
+        "อัลเบิร์ต",
+        "มาได้แค่นี้แหละ!",
+        "character/wolf_swordsman/voice/battle/skill_ready"
+      ]
+    ],
+    "2": [
+      [
+        "อัลเบิร์ต",
+        "อย่าคิดว่าจะหนีพ้นนะ！",
+        "character/wolf_swordsman/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "sing_android": {
+    "1": [
+      [
+        "เดีย",
+        "ระวังตัวด้วย！",
+        "character/sing_android/voice/battle/power_flip_0"
+      ]
+    ],
+    "2": [
+      [
+        "เดีย",
+        "ฉันขอมอบเพลงนี้ให้คุณ!",
+        "character/sing_android/voice/battle/power_flip_1"
+      ]
+    ]
+  },
+  "rec_android": {
+    "1": [
+      [
+        "เรจิส",
+        "ให้ฉันจัดการเอง",
+        "character/rec_android/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "onmyoji_boy": {
+    "1": [
+      [
+        "ซุยเซ็น",
+        "ไปกันเถอะ",
+        "character/onmyoji_boy/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ซุยเซ็น",
+        "ลุยละนะ!",
+        "character/onmyoji_boy/voice/battle/battle_start_1"
+      ]
+    ],
+    "3": [
+      [
+        "ซุยเซ็น",
+        "ให้ตายเถอะ...",
+        "character/onmyoji_boy/voice/words/yareyare"
+      ]
+    ]
+  },
+  "samurai": {
+    "1": [
+      [
+        "โซชิโร่",
+        "จะไม่ลืมพระคุณ",
+        "character/samurai/voice/words/katajikenai"
+      ]
+    ],
+    "2": [
+      [
+        "โซชิโร่",
+        "ใครจะยอมให้ทำเล่า!",
+        "character/samurai/voice/words/sasemasen"
+      ]
+    ],
+    "3": [
+      [
+        "โซชิโร่",
+        "ลุยละนะ!",
+        "character/samurai/voice/words/ikimasuyo"
+      ]
+    ],
+    "4": [
+      [
+        "โซชิโร่",
+        "ลุย!",
+        "character/samurai/voice/battle/battle_start_0"
+      ]
+    ],
+    "5": [
+      [
+        "โซชิโร่",
+        "เอาละ ข้าพร้อมเสมอ!",
+        "character/samurai/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "fox_oracle": {
+    "1": [
+      [
+        "อินาโฮะ",
+        "ลุย!",
+        "character/fox_oracle/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "flame_witch": {
+    "1": [
+      [
+        "ชัคตี้",
+        "เดี๋ยวเตะเลย",
+        "character/flame_witch/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "ekaki_onmyoji": {
+    "1": [
+      [
+        "คุกุย",
+        "จะพยายามค่ะ!",
+        "character/ekaki_onmyoji/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "คุกุย",
+        "มีงานสินะคะ",
+        "character/ekaki_onmyoji/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "ekaki_onmyoji_noskill": {
+    "1": [
+      [
+        "คุกุย",
+        "จะพยายามค่ะ!",
+        "character/ekaki_onmyoji_noskill/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "คุกุย",
+        "มีงานสินะคะ",
+        "character/ekaki_onmyoji_noskill/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lightbullet_wiz_vt21": {
+    "1": [
+      [
+        "เอลิยา",
+        "อย่าคิดว่าสู้กับฉันจะหวานหมูเชียวล่ะ?",
+        "character/lightbullet_wiz_vt21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เอลิยา",
+        "ช็อกโกแลตพอไหมน้า?",
+        "character/lightbullet_wiz_vt21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "whitedog_beast_vt21": {
+    "1": [
+      [
+        "ฟลอเรตต้า",
+        "ฉันจะไม่หนีอีกแล้ว……!",
+        "character/whitedog_beast_vt21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ฟลอเรตต้า",
+        "เพื่อส่งความรู้สึกนี้ไปให้ถึง……!",
+        "character/whitedog_beast_vt21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "monster_cook": {
+    "1": [
+      [
+        "พาเฟ่ต์",
+        "อย่ามาดูถูกเชฟกันนะ!",
+        "character/monster_cook/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "พาเฟ่ต์",
+        "เหมาะจะเอามาทำอาหารนะเนี่ย！",
+        "character/monster_cook/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "bigwing_shaman_smr21": {
+    "1": [
+      [
+        "ชเวย์",
+        "นี่คือความโกรธของภูตและของฉันค่ะ~!!",
+        "character/bigwing_shaman_smr21/voice/words/koregaseireito_watashino"
+      ]
+    ]
+  },
+  "illusionist_smr20": {
+    "1": [
+      [
+        "อิลูมี่",
+        "สเตจฤดูร้อน เริ่มแล้วค่า!",
+        "character/illusionist_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "อิลูมี่",
+        "มาดูโชว์สุดร้อนแรงขนลุกซู่กันเลย!",
+        "character/illusionist_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "dimension_witch_smr20": {
+    "1": [
+      [
+        "เบลเซเทีย",
+        "พี่สาวคนนี้จะเป็นคู่ต่อสู้ให้เอง♪",
+        "character/dimension_witch_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เบลเซเทีย",
+        "มีธุระอะไรกับเด็ก ๆ ที่น่ารักของฉันเหรอ?",
+        "character/dimension_witch_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "bishop_girl_smr20": {
+    "1": [
+      [
+        "ลีเซล",
+        "มาพยายามกันเถอะค่า~!",
+        "character/bishop_girl_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ลีเซล",
+        "ไว้ใจฉันได้เลยค่ะ​!",
+        "character/bishop_girl_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "tiger_treasure_hunter_smr20": {
+    "1": [
+      [
+        "มีอา",
+        "เล็ทส์ซัมเมอร์ฮันติ้ง!",
+        "character/tiger_treasure_hunter_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "มีอา",
+        "สัมผัสได้ว่าน่าจะมีสมบัติแถวนี้…!",
+        "character/tiger_treasure_hunter_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "casino_dealer_smr20": {
+    "1": [
+      [
+        "เนสก้า",
+        "มาเดิมพันกันเลย!",
+        "character/casino_dealer_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เนสก้า",
+        "จะลองเดิมพันดูไหมล่ะ？",
+        "character/casino_dealer_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "alice_smr20": {
+    "1": [
+      [
+        "อลิส",
+        "ฮึฮึ ไม่ใช่คู่ต่อสู้ของฉันหรอกนะ!",
+        "character/alice_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "อลิส",
+        "ฉันคือเลดี้หมายเลขหนึ่งยังไงล่ะ!",
+        "character/alice_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "unicorn_lancer_smr20": {
+    "1": [
+      [
+        "เชราร์",
+        "ได้ยินเสียงขอความช่วยเหลือ！",
+        "character/unicorn_lancer_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เชราร์",
+        "ไปกันเถอะ โอ้ว!",
+        "character/unicorn_lancer_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lady_gunner_smr20": {
+    "1": [
+      [
+        "มาร์กรีต",
+        "ช่างงดงาม มาต่อสู้กันเถอะ……！",
+        "character/lady_gunner_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "มาร์กรีต",
+        "เอาล่ะ ได้เวลาค้นหาความงามแล้ว……！",
+        "character/lady_gunner_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "pirates_girl_smr20": {
+    "1": [
+      [
+        "มารีน่า",
+        "ถ้าอย่างนั้น ฉันจะเล่นกับเธอเอง♪",
+        "character/pirates_girl_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "มารีน่า",
+        "ฮุ ๆ ขอดูฝีมือหน่อยแล้วกันนะ♡",
+        "character/pirates_girl_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "heavenly_two_right": {
+    "1": [
+      [
+        "บิวชี่",
+        "เริ่มถ่ายกันเลยไหมคะ",
+        "character/heavenly_two/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "heavenly_two_left": {
+    "1": [
+      [
+        "บิวชี่",
+        "เริ่มถ่ายกันเลยไหมคะ",
+        "character/heavenly_two/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "timid_kunoichi_ny21": {
+    "1": [
+      [
+        "ซูซูกะ",
+        "เดี๋ยวกิโมโนปีใหม่จะเปื้อนเอาค่ะ!",
+        "character/timid_kunoichi_ny21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ซูซูกะ",
+        "ไม่เป็นไร ไม่เป็นไร……!",
+        "character/timid_kunoichi_ny21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "urban_soldier_ny21": {
+    "1": [
+      [
+        "ทริสต้า",
+        "เอิกเกริกกันตั้งแต่ต้นปีเลยนะคะ",
+        "character/urban_soldier_ny21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ทริสต้า",
+        "ความรู้นี่ล่ะค่ะคือพลังของฉัน!",
+        "character/urban_soldier_ny21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "high_priestess_ny22": {
+    "1": [
+      [
+        "ออร์เวล",
+        "ขออวยพรให้แก่ปีใหม่นี้……",
+        "character/high_priestess_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "dimension_witch_ny22": {
+    "1": [
+      [
+        "เบลเซเทีย",
+        "ไปเที่ยวเล่นกับพี่สาวไหม?",
+        "character/dimension_witch_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "shapely_soldier_ny22": {
+    "1": [
+      [
+        "เลวี่",
+        "งานยุ่งตั้งแต่ปีใหม่เลยนะ!",
+        "character/shapely_soldier_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "outlaw_panther_ny22": {
+    "1": [
+      [
+        "คุโระ",
+        "หวัดดีปีใหม่คร้าบ!",
+        "character/outlaw_panther_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "prince_zero": {
+    "1": [
+      [
+        "ราเซลท์",
+        "ไปกันเถอะ!",
+        "character/prince_zero/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ราเซลท์",
+        "ฉันจะปกป้องเอง!",
+        "character/prince_zero/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "fake_princess": {
+    "1": [
+      [
+        "ปริก้า",
+        "เอาล่ะ เข้ามาได้เลย!",
+        "character/fake_princess/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ปริก้า",
+        "ปล่อยให้ฉันจัดการเอง!",
+        "character/fake_princess/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "ruin_lady_no_piercing": {
+    "1": [
+      [
+        "โซเทียส",
+        "ตรวจพบภัยคุกคาม เริ่มการกำจัด!",
+        "character/ruin_lady_no_piercing/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "โซเทียส",
+        "เริ่มการต่อสู้ ทำให้ไร้พลัง",
+        "character/ruin_lady_no_piercing/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "desert_commander_no_piercing": {
+    "1": [
+      [
+        "ฮาลิดาล",
+        "ได้สิ เดี๋ยวจะเป็นคู่มือให้เอง",
+        "character/desert_commander/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ฮาลิดาล",
+        "โทษทีนะ แต่ฉันเองก็แพ้ไม่ได้เสียด้วยสิ……!",
+        "character/desert_commander/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "white_tiger_desert_bonds_01": {
+    "1": [
+      [
+        "ชิโระ",
+        "ตามฉันมา！",
+        "character/white_tiger/voice/words/tsuitekoi"
+      ]
+    ],
+    "2": [
+      [
+        "ชิโระ",
+        "เกะกะน่า!",
+        "character/white_tiger/voice/words/jamanandayo"
+      ]
+    ],
+    "3": [
+      [
+        "ชิโระ",
+        "ฉันจะขยี้แก！",
+        "character/white_tiger/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "machine_police_girl": {
+    "1": [
+      [
+        "เซร่า",
+        "เริ่มต้นปราบปราม",
+        "character/machine_police_girl/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เซร่า",
+        "ให้เป็นหน้าที่ของเซร่าเองค่ะ!",
+        "character/machine_police_girl/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lady_android": {
+    "1": [
+      [
+        "รูดี้",
+        "เริ่มต้นโอเปเรชั่นต่อสู้ค่ะ",
+        "character/lady_android/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "รูดี้",
+        "ดูเหมือนไม่มีทางอื่น นอกจากต้องสู้สินะคะ",
+        "character/lady_android/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "justice_lady_assist": {
+    "1": [
+      [
+        "จัสตี้",
+        "เริ่มปฏิบัติการ",
+        "character/justice_lady/voice/words/shikookaishi"
+      ]
+    ]
+  },
+  "combat_soldier": {
+    "1": [
+      [
+        "บาเรตต้า",
+        "ทำเสร็จให้เร็วที่สุด!",
+        "character/combat_soldier/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "บาเรตต้า",
+        "แฮ็คแอนด์บลาสต์!",
+        "character/combat_soldier/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "resistance_princess_assist_maou": {
+    "1": [
+      [
+        "ลิลิธ",
+        "กรุยทางสู่อนาคต!",
+        "character/resistance_princess_assist/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "devil_leader_assist_maou_multiball": {
+    "1": [
+      [
+        "เอดูเชียส",
+        "พร้อมใช่ไหม",
+        "character/devil_leader_assist/voice/words/kakugowaiina"
+      ]
+    ]
+  },
+  "devil_leader_assist": {
+    "1": [
+      [
+        "เอดูเชียส",
+        "เดี๋ยวเตะให้กระจุย!",
+        "character/devil_leader_assist/voice/words/kechirasuzo"
+      ]
+    ],
+    "2": [
+      [
+        "เอดูเชียส",
+        "ไปกันเลย!",
+        "character/devil_leader_assist/voice/words/ikuzo"
+      ]
+    ],
+    "3": [
+      [
+        "เอดูเชียส",
+        "ทะลวงเข้าไป!",
+        "character/devil_leader_assist/voice/words/toppasuruzo"
+      ]
+    ],
+    "4": [
+      [
+        "เอดูเชียส",
+        "พร้อมใช่ไหม",
+        "character/devil_leader_assist/voice/words/kakugowaiina"
+      ]
+    ]
+  },
+  "elf_princess_assist": {
+    "1": [
+      [
+        "เอสเตเรียล",
+        "ชักสนุกแล้วสิ เดี๋ยวเป็นคู่มือให้เอง",
+        "character/elf_princess_assist/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "เอสเตเรียล",
+        "พร้อมจะข้องเกี่ยวในโชคชะตาหรือยัง?",
+        "character/elf_princess_assist/voice/battle/battle_start_1"
+      ]
+    ],
+    "3": [
+      [
+        "เอสเตเรียล",
+        "เข้ามาสิ จะเป็นคู่มือให้เอง",
+        "character/elf_princess_assist/voice/words/koi"
+      ]
+    ]
+  },
+  "resistance_princess_assist": {
+    "1": [
+      [
+        "ลิลิธ",
+        "เอาล่ะ ลุยเลยนะ!",
+        "character/resistance_princess_assist/voice/words/soredeha"
+      ]
+    ],
+    "2": [
+      [
+        "ลิลิธ",
+        "ไปช่วยเธอกันเถอะ",
+        "character/resistance_princess_assist/voice/words/kanojo"
+      ]
+    ],
+    "3": [
+      [
+        "ลิลิธ",
+        "ไปไขว่คว้านำมันกลับมาเถอะ!",
+        "character/resistance_princess_assist/voice/words/torimodoshimasho"
+      ]
+    ]
+  },
+  "alk_devil_chapter12": {
+    "1": [
+      [
+        "อัลก์",
+        "ไปกันเถอะ ทุกคน! นี่คือการต่อสู้ครั้งสุดท้าย!",
+        "character/alk/voice/words/ikominna_korega"
+      ]
+    ]
+  },
+  "devil_leader_chapter11_assist": {
+    "1": [
+      [
+        "เอดูเชียส",
+        "จะเตะให้กระเด็นเลย...!",
+        "character/devil_leader_assist/voice/words/battle_start_1"
+      ]
+    ]
+  },
+  "psychic_yuki_assist": {
+    "1": [
+      [
+        "มิชิมะ ยูคิ",
+        "คราวนี้ ถึงตาฉันเป็นฝ่ายช่วยแล้ว……！",
+        "character/psychic_yuki/voice/words/kondowa_watashiga"
+      ]
+    ]
+  },
+  "psychic_yuki_assist_eye_dragon": {
+    "1": [
+      [
+        "มิชิมะ ยูคิ",
+        "คราวนี้ ถึงตาฉันเป็นฝ่ายช่วยแล้ว……！",
+        "character/psychic_yuki/voice/words/kondowa_watashiga"
+      ]
+    ]
+  },
+  "psychic_shouta_assist": {
+    "1": [
+      [
+        "อิโนริ โชตะ",
+        "ฉันเองก็จะสู้ให้ดู……！",
+        "character/psychic_shouta/voice/words/oredatteyatteyaru"
+      ]
+    ]
+  },
+  "psychic_shouta_assist_eye_dragon": {
+    "1": [
+      [
+        "อิโนริ โชตะ",
+        "ฉันเองก็จะสู้ให้ดู……！",
+        "character/psychic_shouta/voice/words/oredatteyatteyaru"
+      ]
+    ]
+  },
+  "white_tiger_2anv_assist": {
+    "1": [
+      [
+        "ชิโระ",
+        "ฉันจะปกป้องเอง……！",
+        "character/white_tiger_2anv/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "ice_witch_2anv_assist": {
+    "1": [
+      [
+        "ไซเฟอร์",
+        "จอมเวทผู้ยิ่งใหญ่ จะเป็นคู่มือให้เอง",
+        "character/ice_witch_2anv/voice/battle/battle_start_0"
+      ]
+    ]
+  }
+}

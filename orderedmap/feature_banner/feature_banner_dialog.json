@@ -1,0 +1,29 @@
+{
+  "2": [
+    [
+      "user_questionnaire_02",
+      "https://questant.jp/q/PRXEBFPA",
+      "(None)",
+      "เปิดบราวเซอร์และไปที่เว็บไซต์ \nคุณแน่ใจหรือไม่?",
+      "(None)"
+    ]
+  ],
+  "1": [
+    [
+      "user_questionnaire_01",
+      "https://questant.jp/q/0GSKA2A8?id=::viewer_id::",
+      "0",
+      "เปิดบราวเซอร์และไปที่เว็บไซต์ \nคุณแน่ใจหรือไม่?\n\n<font size='32px'>*เมื่อโอนจากแอปพลิเคชั่นไปยังเว็บไซต์ จะทำการบันทึก ID ผู้เล่น \nและจะใช้ ID ผู้เล่นนั้นในการส่งไอเทมตอบแทนการตอบแบบสอบถามในภายหลังเท่านั้น</font>",
+      "(None)"
+    ]
+  ],
+  "5000": [
+    [
+      "twitter_check_misson_dialog",
+      "https://twitter.com/world_flipper",
+      "(None)",
+      "ワールドフリッパーの公式Twitterページに\n移動します\nよろしいですか？\n\n※別のアプリを開きます",
+      "twitter_check"
+    ]
+  ]
+}

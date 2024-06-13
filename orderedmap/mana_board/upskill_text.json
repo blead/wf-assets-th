@@ -1,0 +1,262 @@
+{
+  "heal_up": [
+    [
+      "เพิ่มปริมาณฟื้นฟู"
+    ]
+  ],
+  "condition_effect_attack_power_down": [
+    [
+      "ลดพลังโจมตีของศัตรู"
+    ]
+  ],
+  "resistance_allelement": [
+    [
+      "เพิ่มความต้านทานทุกธาตุ"
+    ]
+  ],
+  "resistance_red": [
+    [
+      "เพิ่มความต้านทานธาตุไฟ"
+    ]
+  ],
+  "resistance_blue": [
+    [
+      "เพิ่มความต้านทานธาตุน้ำ"
+    ]
+  ],
+  "resistance_yellow": [
+    [
+      "เพิ่มความต้านทานธาตุสายฟ้า"
+    ]
+  ],
+  "resistance_green": [
+    [
+      "เพิ่มความต้านทานธาตุลม"
+    ]
+  ],
+  "resistance_white": [
+    [
+      "เพิ่มความต้านทานธาตุแสง"
+    ]
+  ],
+  "resistance_black": [
+    [
+      "เพิ่มความต้านทานธาตุมืด"
+    ]
+  ],
+  "damage_cut_allelement": [
+    [
+      "ลดดาเมจทุกธาตุ"
+    ]
+  ],
+  "damage_cut_red": [
+    [
+      "ลดดาเมจธาตุไฟ"
+    ]
+  ],
+  "damage_cut_blue": [
+    [
+      "ลดดาเมจธาตุน้ำ"
+    ]
+  ],
+  "damage_cut_yellow": [
+    [
+      "ลดดาเมจธาตุสายฟ้า"
+    ]
+  ],
+  "damage_cut_green": [
+    [
+      "ลดดาเมจธาตุลม"
+    ]
+  ],
+  "damage_cut_white": [
+    [
+      "ลดดาเมจธาตุแสง"
+    ]
+  ],
+  "damage_cut_black": [
+    [
+      "ลดดาเมจธาตุมืด"
+    ]
+  ],
+  "condition_effect_allelement_up": [
+    [
+      "ลดความต้านทานทุกธาตุของศัตรู"
+    ]
+  ],
+  "condition_effect_red_up": [
+    [
+      "ลดความต้านทานธาตุไฟของศัตรู"
+    ]
+  ],
+  "condition_effect_blue_up": [
+    [
+      "ลดความต้านทานธาตุน้ำของศัตรู"
+    ]
+  ],
+  "condition_effect_yellow_up": [
+    [
+      "ลดความต้านทานธาตุสายฟ้าของศัตรู"
+    ]
+  ],
+  "condition_effect_green_up": [
+    [
+      "ลดความต้านทานธาตุลมของศัตรู"
+    ]
+  ],
+  "condition_effect_white_up": [
+    [
+      "ลดความต้านทานธาตุแสงของศัตรู"
+    ]
+  ],
+  "condition_effect_black_up": [
+    [
+      "ลดความต้านทานธาตุมืดของศัตรู"
+    ]
+  ],
+  "condition_effect_poison_up": [
+    [
+      "เพิ่มเอฟเฟกต์ติดพิษ"
+    ]
+  ],
+  "condition_effect_paralysis_up": [
+    [
+      "เพิ่มเอฟเฟกต์อัมพาต"
+    ]
+  ],
+  "skill_damage_up": [
+    [
+      "เพิ่มเอฟเฟกต์เพิ่มดาเมจสกิล"
+    ]
+  ],
+  "skill_gauge_up": [
+    [
+      "เพิ่มปริมาณสะสมเกจสกิล"
+    ]
+  ],
+  "powerflip_damage_up": [
+    [
+      "เพิ่มเอฟเฟกต์เพิ่มดาเมจพาวเวอร์ฟลิป"
+    ]
+  ],
+  "multiball_up": [
+    [
+      "เพิ่มเอฟเฟกต์มัลติบอล"
+    ]
+  ],
+  "condition_flying_up": [
+    [
+      "เพิ่มเอฟเฟกต์ลอยตัว"
+    ]
+  ],
+  "condition_debuff_resistance_up": [
+    [
+      "เพิ่มเอฟเฟกต์ความต้านทานดีบัฟ"
+    ]
+  ],
+  "condition_piercing_up": [
+    [
+      "เพิ่มเอฟเฟกต์ทะลุ"
+    ]
+  ],
+  "condition_slow": [
+    [
+      "เพิ่มเอฟเฟกต์เชื่องช้า"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "เพิ่มเอฟเฟกต์สะสมเกจฟีเวอร์"
+    ]
+  ],
+  "condition_regeneration_up": [
+    [
+      "เพิ่มเอฟเฟกต์ฟื้นฟู"
+    ]
+  ],
+  "coffin_reduce": [
+    [
+      "เพิ่มเอฟเฟกต์ลดตัวเลขบนโลงศพ"
+    ]
+  ],
+  "invinceble_up": [
+    [
+      "เพิ่มเอฟเฟกต์อมตะ"
+    ]
+  ],
+  "condition_stun_wince": [
+    [
+      "เพิ่มดาเมจต่อศัตรูที่กำลังเบรกดาวน์"
+    ]
+  ],
+  "condition_directdamage_up": [
+    [
+      "เพิ่มเอฟเฟกต์เพิ่มดาเมจโจมตีระยะประชิด"
+    ]
+  ],
+  "condition_directattack_more": [
+    [
+      "เพิ่มเอฟเฟกต์โจมตีต่อเนื่อง"
+    ]
+  ],
+  "barrier_up": [
+    [
+      "เพิ่มเอฟเฟกต์บาเรีย"
+    ]
+  ],
+  "ability_damage_up": [
+    [
+      "เพิ่มผลเพิ่มอบิลิตี้ดาเมจ"
+    ]
+  ],
+  "adversity_up": [
+    [
+      "เพิ่มผลสลับทาง"
+    ]
+  ],
+  "comboboost_up": [
+    [
+      "เพิ่มผลบูสต์คอมโบ"
+    ]
+  ],
+  "combo_count_up": [
+    [
+      "เพิ่มผลเพิ่มจำนวนคอมโบ"
+    ]
+  ],
+  "condition_effect_stun_up": [
+    [
+      "เพิ่มผลมึนงง"
+    ]
+  ],
+  "condition_guts_up": [
+    [
+      "เพิ่มผลฮึดสู้"
+    ]
+  ],
+  "condition_fixed_speed_up": [
+    [
+      "เพิ่มผลจำกัดค่าความเร็วสูงสุดที่คงที่"
+    ]
+  ],
+  "condition_skill_gauge_charging_up": [
+    [
+      "เพิ่มผลความเร็วการชาร์จสกิล"
+    ]
+  ],
+  "separated_term_powerflip_damage_up": [
+    [
+      "เพิ่มผลเพิ่มความเสียหายพาวเวอร์ฟลิปของกรอบแยก"
+    ]
+  ],
+  "separated_term_directdamage_up": [
+    [
+      "เพิ่มผลเพิ่มความเสียหายการโจมตีโดยตรงของกรอบแยก"
+    ]
+  ],
+  "speed_up": [
+    [
+      "เพิ่มความเร็ว"
+    ]
+  ]
+}
