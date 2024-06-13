@@ -29,7 +29,7 @@ jobs:
       if: ${{ !inputs.version || inputs.version == 'null' }}
       run: ls ${VERSION_FILE} >> /dev/null 2>&1 && echo VERSION=$(cat ${VERSION_FILE}) >> ${GITHUB_ENV}
     - name: Set VERSION from dispatch
-      if: ${{ inputs.version }}
+      if: ${{ inputs.version && inputs.version != 'null' }}
       run: echo VERSION=${{ inputs.version }} >> ${GITHUB_ENV}
     - name: Set DIFF_ONLY from dispatch
       if: ${{ inputs.full_extract }}
